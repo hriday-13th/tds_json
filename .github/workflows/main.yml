@@ -14,5 +14,5 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Say Hello with Email
+      - name: 21f3002390@ds.study.iitm.ac.in
         run: echo "Hello, 21f3002390@ds.study.iitm.ac.in!"
